@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "727330114432",
+    "project_id": "newschool-7e43d",
+    "storage_bucket": "newschool-7e43d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727330114432:android:e8ee044ff6f8ee62394f65",
+        "android_client_info": {
+          "package_name": "net.newschol.protime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727330114432-knn3infrf4732l00pshvbjqbmmi1uejp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.newschol.protime",
+            "certificate_hash": "b174ae0f3f69369736c1a1dc1371d1aeaa06e661"
+          }
+        },
+        {
+          "client_id": "727330114432-gcr6nbs0c60bc4qjg2afaj8n0orhnk7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITYsrTLHY0wHq2pGze_5jUnlhGRN2log"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727330114432-gcr6nbs0c60bc4qjg2afaj8n0orhnk7j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727330114432-mi3mkkrrf3friok3fvs1mjr5mr8i7ftv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.newschol.protime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

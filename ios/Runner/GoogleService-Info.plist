@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>727330114432-mi3mkkrrf3friok3fvs1mjr5mr8i7ftv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.727330114432-mi3mkkrrf3friok3fvs1mjr5mr8i7ftv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>727330114432-knn3infrf4732l00pshvbjqbmmi1uejp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvDOg0YUSkmH9vt63fLdqN0AsCMryCK_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>727330114432</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.newschol.protime</string>
+	<key>PROJECT_ID</key>
+	<string>newschool-7e43d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newschool-7e43d.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:727330114432:ios:0d18e8b8a9a9ff23394f65</string>
+</dict>
+</plist>
